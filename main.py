@@ -1,5 +1,5 @@
 from turtle import Turtle,Screen
-from snack import Snack_body
+from snake import Snake_body
 import time
 from food import Food 
 from score import Score_board
@@ -7,7 +7,7 @@ from score import Score_board
 
 window=Screen()
 window.setup(800,800)
-sam=Snack_body()
+sam=Snake_body()
 window.tracer(0)
 food = Food()
 score=Score_board()
