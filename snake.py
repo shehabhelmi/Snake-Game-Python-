@@ -1,7 +1,7 @@
 
 from turtle import Turtle
 
-class Snack_body:
+class Snake_body:
     def __init__(self):
         self.turtles=[]
         self.positions=[(-80,0),(-60,0),(-40,0),(-20,0),(0,0)]
