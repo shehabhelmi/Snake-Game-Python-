@@ -1,3 +1,5 @@
+# This Project done by Shehab Helmi 
+# Follow me on social media to be first person to know about my new projects at AI
 from turtle import Turtle,Screen
 from snake import Snake_body
 import time
